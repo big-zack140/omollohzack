@@ -32,6 +32,7 @@ DeFi research project: a read-only arbitrage scanner and flash-loan contract sui
 
 ## ✍️ Writing
 
+- **[The Inhabitants Belong to the World, Not the Model](https://doi.org/10.5281/zenodo.24231543)** — the Project Genesis design paper (preprint, Zenodo — DOI: 10.5281/zenodo.24231543); also on [academia.edu](https://independent.academia.edu/OmollohZack)
 - **[I Built a Flash-Loan Arbitrage Bot on Arbitrum — Then Proved It Loses Money](https://dev.to/omollohzack/i-built-a-flash-loan-arbitrage-bot-on-arbitrum-then-proved-it-loses-money-1b66)** — the measured post-mortem of the project above, published on DEV
 - More on DEV: [dev.to/omollohzack](https://dev.to/omollohzack)
 
